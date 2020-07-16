@@ -28,6 +28,19 @@
     "angular-lab-e2e": {
       "tags": [],
       "implicitDependencies": ["angular-lab"]
+    },
+    "ui-kit": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "vue-lab": {
+      "tags": []
+    },
+    "vue-lab-e2e": {
+      "tags": [],
+      "implicitDependencies": ["vue-lab"]
     }
   }
 }

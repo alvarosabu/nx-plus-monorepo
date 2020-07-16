@@ -15,7 +15,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@my-awesome-monorepo/ui-kit": ["libs/ui-kit/src/index.ts"],
+      "@my-awesome-monorepo/api": ["libs/api/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
